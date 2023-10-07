@@ -1,0 +1,24 @@
+version: v2.8.1-84-01cf954c-SNAPSHOT
+apkFileName: ims-tundra_cn-user 11 T1SJC33.51-19-7 777c83 release-keys.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 33
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- png
+- res/drawable-xhdpi/volte_icon
